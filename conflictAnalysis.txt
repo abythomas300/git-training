@@ -1,0 +1,2 @@
+This file is created for analysing conlict that happens when merging two branches.
+Ferarri and Rafael.
